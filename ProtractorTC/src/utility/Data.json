@@ -1,0 +1,19 @@
+{
+"url":"http://www.way2automation.com/angularjs-protractor/banking/#/login",
+"custData":{
+"Firstname":"ind",
+"Lastname":"Shanks",
+"PostCode":"00505"
+},
+"delCustomer":"Neville",
+"expText":"Harry Potter",
+"Amount":"2000",
+"AccountNo1":"1004",
+"currency1":"Dollar",
+"AccountNo2":"1005",
+"currency2":"Pound",
+"AccountNo3":"1006",
+"currency3":"Rupee",
+"errorMsg":"Transaction Failed. You can not withdraw amount more than the balance.",
+"WithdrawMsg":"Transaction successful"
+}
